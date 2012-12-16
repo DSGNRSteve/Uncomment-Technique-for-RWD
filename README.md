@@ -1,8 +1,8 @@
-* Uncomment-Technique-for-RWD *
-===========================
+#Uncomment-Technique-for-RWD
 
-What is this repo?
-------------------
+* * *
+
+##What is this repo?
 This is a working example of the uncomment technique first provided by [Moritz Giessmann](http://moritz-giessmann.de) on [Code Pen](http://codepen.io/MoritzGiessmann/pen/LcfdH).
 
 
