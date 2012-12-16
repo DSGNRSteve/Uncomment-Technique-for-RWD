@@ -1,0 +1,23 @@
+@import "compass";
+.container {
+  margin:0 auto;
+  max-width:900px;
+}
+
+.slideshow {
+    position: relative;
+    width: 900px;
+    height: 400px;
+}
+.slideshow .slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+@media screen and (max-width: 900px) {
+  .slideshow {
+    height:auto;
+  }
+}
